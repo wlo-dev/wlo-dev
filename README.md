@@ -28,8 +28,12 @@
   <a href="mailto:chagulukawillouby1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+<div align="center">
+  <a href="mailto:chagulukawillouby1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/willouby-chaguluka-22352b262/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAb0lEQVQ4jWNgoBAwUqifgWEAAxsDA8N/KNv/////QyYGBob/UDbOAAjA0M/AwHBzypQp/wcCGHABdAMYGBj+Q/FAgAIGBob/UDwQoICBgeE/FA8EKGBgYPgPxQMBChgYGP5D8UCAAqoZAAAA//8DAEbHEBpzr5r2AAAAAElFTkSuQmCC&logoColor=white"/>
+    <img height="28" src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social"/>
   </a>
   <a href="https://wlo-dev.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white"/>
