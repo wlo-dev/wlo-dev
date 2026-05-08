@@ -39,3 +39,15 @@
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
   </a>
 </div>
+
+<hr/>
+
+<h2 align="center">  ⚒️ Languages- Frameworks- Tools ⚒️ </h2>
+<br/>
+<div align="center">
+<a href="https://skillsicon.dev">
+<img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,express,mongodb,c++,java"/><br>
+<img src="https://skillsicons.dev/icons?i=react,mysql,html,css,vscode,netbeans,wordpress"/>
+  
+</div>
+
