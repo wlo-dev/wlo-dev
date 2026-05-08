@@ -65,14 +65,13 @@
 <hr/>
 <h2 align="center"> ⚡ Stats ⚡ </h2>
 <br>
+</div>
+<hr/>
+<h2 align="center"> ⚡ Stats ⚡ </h2>
+<br>
 <div align="center">
-
-<img width="390" src="https://streak-stats.demolab.com/?user=wlo-dev&theme=react&border_radius=10" />
-
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=wlo-dev&theme=react&border_radius=10" />
 <img width="390" src="https://github-readme-stats.vercel.app/api?username=wlo-dev&show_icons=true&theme=react" />
-
 <br/>
-
 <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlo-dev&layout=compact&theme=react&hide=HTML" />
-
 </div>
