@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
 </a>
 <a href="https://www.linkedin.com/in/willouby-chaguluka-22352b262/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&cachebust=1" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48"/>
 </a>
 <a href="https://wlo-dev.github.io" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
