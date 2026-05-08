@@ -67,8 +67,6 @@
 <br>
 </div>
 <hr/>
-
-<br>
 <div align="center">
 <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=wlo-dev&theme=react&border_radius=10" />
 <img width="390" src="https://github-readme-stats.vercel.app/api?username=wlo-dev&show_icons=true&theme=react" />
