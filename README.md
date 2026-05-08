@@ -30,6 +30,5 @@
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48"/>
   </a>
   <a href="https://wlo-dev.github.io" target="_blank">
-    <img src="https://skillicons.dev/icons?i=githubactions" alt="Portfolio" width="48"/>
-  </a>
-</div>
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
