@@ -46,8 +46,8 @@
 <br/>
 <div align="center">
 <a href="https://skillsicon.dev">
-<img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,express,mongodb,c++,java"/><br>
-<img src="https://skillsicons.dev/icons?i=react,mysql,html,css,vscode,netbeans,wordpress"/>
+<img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,express,mongodb,cpp,java"/><br>
+<img src="https://skillicons.dev/icons?i=react,mysql,html,css,vscode,netbeans,wordpress"/>
   
 </div>
 
