@@ -29,9 +29,9 @@
   <a href="mailto:chagulukawillouby1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/willouby-chaguluka-22352b262/" target="_blank">
-    <img height="28" src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social"/>
-  </a>
+ <a href="https://www.linkedin.com/in/willouby-chaguluka-22352b262/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
   <a href="https://wlo-dev.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
