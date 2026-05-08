@@ -32,3 +32,7 @@
 <a href="https://wlo-dev.github.io" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="Portfolio" width="48"/>
   </a>
+
+   <a href="https://www.behance.net/willoubchagulu" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+  </a>
