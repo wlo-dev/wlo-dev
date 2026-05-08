@@ -7,7 +7,7 @@
     />
   </a>
 </h1>
-<h3 align="center"> Software Engineering student passionate about building innovative tech solutions. Exploring AI, web development, and real-world problem solving.</h3>
+<h3 align="center"> A Software Engineering student passionate about building innovative tech solutions. Exploring AI, web development, and real-world problem solving.</h3>
 
 <br/>
 <div align="center">
