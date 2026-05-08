@@ -65,4 +65,20 @@
 <hr/>
 <h2 align="center"> ⚡ Stats ⚡ </h2>
 <br>
+<div align="center">
+<img width=390 src="https://streak-stats.demolab.com/?user=wlo-dev&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img width=390 src="https://github-readme-stats-wlo-dev.vercel.app/api?username=wlo-dev&count_private=true&show_icon=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<br/>
+<img width=325 align="center" src="https://github-readme-stats-wlo-dev.vercel.app/api/top-langs/?
+username=wlo-dev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"/>
+</div>
+
+<br><br/>
+<hr/>
+
+<h3 align="center">
+<a href=Https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com/?
+font=Righteous&size=25&center=true&Center=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting+✌️;Send+me+a+message+on+linkedIn; I+am+always+looking+forward+to+collab+:)">
+</a>
 
