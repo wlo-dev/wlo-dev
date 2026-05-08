@@ -33,6 +33,6 @@
     <img src="https://skillicons.dev/icons?i=github" alt="Portfolio" width="48"/>
   </a>
 
-   <a href="https://www.behance.net/willoubchagulu" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
+  <a href="https://www.behance.net/willoubchagulu" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/behance.svg" alt="Behance" width="48" style="background-color:#1769FF; border-radius:10px; padding:8px;"/>
   </a>
