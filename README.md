@@ -23,12 +23,13 @@
 </div>
 
 <div align="center">
-<a href="mailto:chagulukawillouby1@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
-</a>
-<a href="https://www.linkedin.com/in/willouby-chaguluka-22352b262/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48"/>
-</a>
-<a href="https://wlo-dev.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+  <a href="mailto:chagulukawillouby1@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48"/>
+  </a>
+  <a href="https://www.linkedin.com/in/willouby-chaguluka-22352b262/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48"/>
+  </a>
+  <a href="https://wlo-dev.github.io" target="_blank">
+    <img src="https://skillicons.dev/icons?i=githubactions" alt="Portfolio" width="48"/>
+  </a>
+</div>
