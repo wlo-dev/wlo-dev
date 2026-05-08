@@ -23,16 +23,17 @@
 </div>
 
 <div align="center">
+<div align="center">
   <a href="mailto:chagulukawillouby1@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="48"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/willouby-chaguluka-22352b262/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-<a href="https://wlo-dev.github.io" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" alt="Portfolio" width="48"/>
+  <a href="https://wlo-dev.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-
   <a href="https://www.behance.net/willoubchagulu" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/behance.svg" alt="Behance" width="48" style="background-color:#1769FF; border-radius:10px; padding:8px;"/>
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
   </a>
+</div>
