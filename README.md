@@ -28,3 +28,7 @@
 </a>
 <a href= "//https://www.linkedin.com/in/willouby-chaguluka-22352b262/" target="_blank">
 <img src="https://img.shields.io/badge/linkedIn-0077B5?style=for-the-badge&logo=linkedIn&logoColor=white" target="_blank"/>
+</a>
+<a href="https://wlo-dev.github.io" target="_black">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todois&logoColor=white" target="_blank"/> <!-- sqlite, safari, google-chrome are other good icon options -->
+</a>
