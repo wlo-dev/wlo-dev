@@ -25,7 +25,8 @@
 
 🔭 I am currently working on **a chat app**
 🌱 I am currently learning **Python and Machine Learning Fundamentals**
-💬 Open to collaboration and tech discussions [here](https://github.com/wlo-dev/wlo-dev)
+</br>
+💬 Open to collaboration and tech discussions [here](https://github.com/wlo-dev/wlo-dev) <br/>
 ⚡ Fun fact: I get way too focused when I'm working on something I enjoy.
 
 </div>
