@@ -14,7 +14,7 @@
   
 🔭I am current working on **a chat app**
 
-🌱I am currently learning **Python and Machine Learning Fundamentals**
+🌱I am currently learning **Python and Machine Learning Fundamentals**    
 
 💬 Open to collaboration and tech discussions [here](https://github.com/wlo-dev/wlo-dev)
 
