@@ -66,10 +66,10 @@
 <h2 align="center"> ⚡ Stats ⚡ </h2>
 <br>
 <div align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=wlo-dev&count_private=true&theme=react&border_radius=10&v=1" />
-  <img width="390" src="https://github-readme-stats-wlo-devs-projects.vercel.app/api?username=wlo-dev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&v=1" />
+  <img width="390" src="https://streak-stats.demolab.com/?user=wlo-dev&count_private=true&theme=react&border_radius=10" />
+  <img width="390" src="https://github-readme-stats-wlo-devs-projects.vercel.app/api?username=wlo-dev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10&cache_seconds=1800" />
   <br/>
-  <img width="325" src="https://github-readme-stats-wlo-devs-projects.vercel.app/api/top-langs/?username=wlo-dev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&exclude_repo=github-readme-stats&v=1" />
+  <img width="325" src="https://github-readme-stats-wlo-devs-projects.vercel.app/api/top-langs/?username=wlo-dev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&exclude_repo=github-readme-stats&cache_seconds=1800" />
 </div>
 <br/><br/>
 <hr/>
