@@ -15,7 +15,7 @@
   <p>
     I'm a Software Engineering student based in Southern Africa, passionate about building things that matter.<br/>
     From crafting seamless web and mobile experiences to exploring the boundaries of AI and backend systems,<br/>
-    I love working across the stack — turning ideas into real, working products.
+    I love working across the stack  turning ideas into real, working products.
   </p>
 </div>
 
