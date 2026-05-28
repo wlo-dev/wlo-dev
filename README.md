@@ -1,4 +1,5 @@
 
+```html
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wlo-dev.wlo-dev"/>
 
 <h1 align="center">
@@ -26,7 +27,7 @@ My interests span across full-stack web development, backend systems, AI, and sc
 </p>
 
 <p align="justify">
-Alongside software development, I also work as a freelance graphic designer, which has strengthened my understanding of branding, visual communication, and user experience design. This combination of technical and creative experience allows me to approach projects with a balanced perspective  focusing not only on how systems function, but also on how people interact with and experience them.
+Alongside software development, I also work as a freelance graphic designer, which has strengthened my understanding of branding, visual communication, and user experience design. This combination of technical and creative experience allows me to approach projects with a balanced perspective focusing not only on how systems function, but also on how people interact with and experience them.
 </p>
 
 <p align="justify">
@@ -59,22 +60,29 @@ I am highly motivated, adaptable, and continuously seeking opportunities to lear
 
 <br/>
 
-<div align="center">
-  <h2>📊 Contributions & Activity 📊</h2>
-
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/wlo-dev/wlo-dev/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
-<br/>
+<!-- STATS SECTION MOVED UP -->
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <div align="center">
   <img width="390" src="https://streak-stats.demolab.com/?user=wlo-dev&count_private=true&theme=react&border_radius=10"/>
+  
   <img width="390" src="https://github-readme-stats-iota-two-18.vercel.app/api?username=wlo-dev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10"/>
+  
   <br/>
+  
   <img width="325" src="https://github-readme-stats-iota-two-18.vercel.app/api/top-langs/?username=wlo-dev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&exclude_repo=github-readme-stats"/>
+</div>
+
+<br/>
+
+<!-- CONTRIBUTIONS AFTER STATS -->
+
+<div align="center">
+  <h2>📊 Contributions & Activity 📊</h2>
+
+  <img alt="snake eating my contributions" 
+       src="https://raw.githubusercontent.com/wlo-dev/wlo-dev/output/github-contribution-grid-snake.svg"/>
 </div>
 
 <br/>
@@ -103,6 +111,10 @@ I am highly motivated, adaptable, and continuously seeking opportunities to lear
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Thanks+for+visiting+✌️;Always+learning+and+building;Open+to+collaboration+and+new+opportunities"/>
+    <img 
+      src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Thanks+for+visiting+✌️;Always+learning+and+building;Open+to+collaboration+and+new+opportunities"
+    />
   </a>
 </h3>
+```
+
