@@ -22,11 +22,11 @@ I am a Software Engineering student with a strong passion for technology, innova
 </p>
 
 <p align="justify">
-My interests span across full-stack web development, backend systems, artificial intelligence, and scalable software solutions. I enjoy transforming ideas into practical, real-world products and working on projects that have genuine impact. Whether developing responsive web applications, designing efficient system architecture, or learning emerging technologies, I am always motivated by the process of building solutions that are both useful and innovative.
+My interests span across full-stack web development, backend systems, AI, and scalable software solutions. I enjoy transforming ideas into practical, real-world products and working on projects that have genuine impact. Whether developing responsive web applications, designing efficient system architecture, or learning emerging technologies, I am always motivated by the process of building solutions that are both useful and innovative.
 </p>
 
 <p align="justify">
-Alongside software development, I also work as a freelance graphic designer, which has strengthened my understanding of branding, visual communication, and user experience design. This combination of technical and creative experience allows me to approach projects with a balanced perspective — focusing not only on how systems function, but also on how people interact with and experience them.
+Alongside software development, I also work as a freelance graphic designer, which has strengthened my understanding of branding, visual communication, and user experience design. This combination of technical and creative experience allows me to approach projects with a balanced perspective  focusing not only on how systems function, but also on how people interact with and experience them.
 </p>
 
 <p align="justify">
@@ -37,7 +37,7 @@ I am highly motivated, adaptable, and continuously seeking opportunities to lear
 
 <br/>
 
-<div align="center">
+<div align="justify">
 
 🔭 Exploring full-stack development, backend systems, and AI technologies  
 🌱 Currently learning **Python and Machine Learning Fundamentals**  
@@ -106,4 +106,3 @@ I am highly motivated, adaptable, and continuously seeking opportunities to lear
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Thanks+for+visiting+✌️;Always+learning+and+building;Open+to+collaboration+and+new+opportunities"/>
   </a>
 </h3>
-```
