@@ -1,29 +1,37 @@
-
+```md id="xla92p"
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=wlo-dev.wlo-dev"/>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I+am+Willouby+Chaguluka!;" 
+      src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I+am+Willouby+Chaguluka!;" 
     />
   </a>
 </h1>
 
 <h3 align="center">
-A Software Engineering student passionate about building innovative tech solutions.
+Software Engineering Student • Full-Stack Developer • Creative Problem Solver
 </h3>
 
 <br/>
 
-<div align="center">
+<div align="center" width="80%">
 
-I am a Software Engineering student based in Southern Africa with a strong passion for technology, creativity, and problem solving. I enjoy building modern digital experiences and continuously learning new technologies that help me grow as a developer and creative thinker.
+<p align="justify">
+I am a Software Engineering student with a strong passion for technology, innovation, and creating meaningful digital experiences. My journey in tech has been driven by curiosity, creativity, and a desire to continuously grow as both a developer and problem solver. I enjoy building modern applications that combine functionality, performance, and user-centered design while constantly exploring new technologies that challenge and expand my skill set.
+</p>
 
-My interests range from full-stack web development and backend systems to artificial intelligence and real-world software solutions. I enjoy turning ideas into functional products and exploring how technology can create meaningful impact in everyday life.
+<p align="justify">
+My interests span across full-stack web development, backend systems, artificial intelligence, and scalable software solutions. I enjoy transforming ideas into practical, real-world products and working on projects that have genuine impact. Whether developing responsive web applications, designing efficient system architecture, or learning emerging technologies, I am always motivated by the process of building solutions that are both useful and innovative.
+</p>
 
-Alongside software development, I also work as a freelance graphic designer, which has helped me develop a strong eye for design, branding, and user experience. I enjoy combining technical and creative skills to build projects that are both functional and visually engaging.
+<p align="justify">
+Alongside software development, I also work as a freelance graphic designer, which has strengthened my understanding of branding, visual communication, and user experience design. This combination of technical and creative experience allows me to approach projects with a balanced perspective — focusing not only on how systems function, but also on how people interact with and experience them.
+</p>
 
-I am always open to learning, collaboration, and connecting with other people in tech. Whether it is developing applications, exploring new tools, or contributing to innovative ideas, I enjoy challenging myself and continuously improving my skills as a developer.
+<p align="justify">
+I am highly motivated, adaptable, and continuously seeking opportunities to learn, collaborate, and contribute within the tech space. I value growth, consistency, and meaningful work, and I am always excited to connect with individuals and teams who are passionate about innovation, technology, and creating impactful solutions.
+</p>
 
 </div>
 
@@ -31,10 +39,10 @@ I am always open to learning, collaboration, and connecting with other people in
 
 <div align="center">
 
-🔭 Exploring full-stack development and AI technologies  
+🔭 Exploring full-stack development, backend systems, and AI technologies  
 🌱 Currently learning **Python and Machine Learning Fundamentals**  
-💬 Open to collaboration and tech discussions  
-⚡ Fun fact: I get way too focused when I'm working on something I enjoy.
+💬 Open to collaboration, networking, and tech discussions  
+⚡ Passionate about building practical solutions that make an impact
 
 </div>
 
@@ -52,7 +60,7 @@ I am always open to learning, collaboration, and connecting with other people in
 <br/>
 
 <div align="center">
-  <h2>📊 My Contributions 📊</h2>
+  <h2>📊 Contributions & Activity 📊</h2>
 
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/wlo-dev/wlo-dev/output/github-contribution-grid-snake.svg"/>
 
@@ -60,7 +68,7 @@ I am always open to learning, collaboration, and connecting with other people in
 
 <br/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ GitHub Stats ⚡</h2>
 
 <div align="center">
   <img width="390" src="https://streak-stats.demolab.com/?user=wlo-dev&count_private=true&theme=react&border_radius=10"/>
@@ -71,16 +79,21 @@ I am always open to learning, collaboration, and connecting with other people in
 
 <br/>
 
+<h2 align="center">🌐 Connect With Me 🌐</h2>
+
 <div align="center">
   <a href="mailto:chagulukawillouby1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://www.linkedin.com/in/willouby-chaguluka-22352b262/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="https://wlo-dev.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
   <a href="https://www.behance.net/willoubchagulu" target="_blank">
     <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
   </a>
@@ -90,7 +103,7 @@ I am always open to learning, collaboration, and connecting with other people in
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting+✌️;Send+me+a+message+on+LinkedIn;I+am+always+looking+forward+to+collab+:)"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=24&center=true&vCenter=true&width=650&height=70&duration=4000&lines=Thanks+for+visiting+✌️;Always+learning+and+building;Open+to+collaboration+and+new+opportunities"/>
   </a>
 </h3>
 ```
