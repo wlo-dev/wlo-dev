@@ -59,7 +59,7 @@ I am highly motivated, adaptable, and continuously seeking opportunities to lear
 
 <br/>
 
-<!-- STATS SECTION MOVED UP -->
+
 
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 
