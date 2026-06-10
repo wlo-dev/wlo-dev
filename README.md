@@ -53,7 +53,6 @@ I am highly motivated, adaptable, and continuously seeking opportunities to lear
 <div align="center">
   <a href="https://skillsicon.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,github,python,javascript,express,mongodb,cpp,java"/><br/>
-    <img src="https://skillicons.dev/icons?i=react,mysql,html,css,vscode,eclipse,wordpress,ps,ai"/>
     <img src="https://skillicons.dev/icons?i=react,mysql,html,css,vscode,eclipse,wordpress,ps,ai,pr"/><br/>
 <img src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white"/>
   </a>
