@@ -17,16 +17,11 @@ Software Engineering Student • Full-Stack Developer • Creative Problem Solve
 
 <div align="center" width="80%">
 
-<p align="justify">
-I am a Software Engineering student with a strong passion for technology, innovation, and creating meaningful digital experiences. My journey in tech has been driven by curiosity, creativity, and a desire to continuously grow as both a developer and problem solver. I enjoy building modern applications that combine functionality, performance, and user-centered design while constantly exploring new technologies that challenge and expand my skill set.
-</p>
+<p align="justify"> I am a Software Engineering student with a strong passion for Artificial Intelligence, machine learning, and building intelligent systems that solve real-world problems. My goal is to become an AI Engineer who develops innovative, reliable, and impactful AI solutions. I am driven by curiosity and a commitment to continuous learning, always exploring new technologies, tools, and techniques that deepen my understanding of AI and modern software engineering. </p>
 
-<p align="justify">
-My interests span across full-stack web development, backend systems, AI, and scalable software solutions. I enjoy transforming ideas into practical, real-world products and working on projects that have genuine impact. Whether developing responsive web applications, designing efficient system architecture, or learning emerging technologies, I am always motivated by the process of building solutions that are both useful and innovative.
-</p>
+<p align="justify"> My interests span across machine learning, generative AI, backend development, and scalable software systems. I enjoy transforming ideas into practical AI-powered applications that deliver meaningful value to users. Whether I am training machine learning models, developing intelligent applications, or strengthening my software engineering foundations, I am motivated by creating solutions that are both technically robust and genuinely useful. </p>
 
-<p align="justify">
-Alongside software development, I also work as a freelance graphic designer, which has strengthened my understanding of branding, visual communication, and user experience design. This combination of technical and creative experience allows me to approach projects with a balanced perspective focusing not only on how systems function, but also on how people interact with and experience them.
+<p align="justify"> I believe strong AI engineers are built on solid software engineering principles, which is why I continuously work on improving my programming, problem-solving, and system design skills. I enjoy learning through hands-on projects, collaborating with others, and staying up to date with the latest advancements in AI. My aspiration is to contribute to building responsible, innovative, and scalable AI systems that make a positive impact across industries. </p>
 </p>
 
 <p align="justify">
