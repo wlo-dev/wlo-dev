@@ -34,10 +34,10 @@ I am highly motivated, adaptable, and continuously seeking opportunities to lear
 
 <div align="justify">
 
-🔭 Exploring Machine Learning, Generative AI, and intelligent software systems
-🌱 Currently expanding my knowledge in AI Engineering, MLOps, and modern machine learning techniques
-💬 Open to collaboration, networking, and discussions around AI, machine learning, and software engineering
-⚡ Passionate about building AI-powered solutions that solve real-world problems and create meaningful impact
+ Exploring Machine Learning, Generative AI, and intelligent software systems
+ Currently expanding my knowledge in AI Engineering, MLOps, and modern machine learning techniques
+ Open to collaboration, networking, and discussions around AI, machine learning, and software engineering
+ Passionate about building AI-powered solutions that solve real-world problems and create meaningful impact
 
 </div>
 
