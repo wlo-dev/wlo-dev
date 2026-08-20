@@ -17,7 +17,7 @@ Software Engineering Student • Full-Stack Developer • Creative Problem Solve
 
 <div align="center" width="80%">
 
-<p align="justify"> I am a Software Engineering with a strong passion for Artificial Intelligence, machine learning, and building intelligent systems that solve real-world problems. My goal is to become an AI Engineer who develops innovative, reliable, and impactful AI solutions. I am driven by curiosity and a commitment to continuous learning, always exploring new technologies, tools, and techniques that deepen my understanding of AI and modern software engineering. </p>
+<p align="justify"> I am a Software Engineer with a strong passion for Artificial Intelligence, machine learning, and building intelligent systems that solve real-world problems. My goal is to become an AI Engineer who develops innovative, reliable, and impactful AI solutions. I am driven by curiosity and a commitment to continuous learning, always exploring new technologies, tools, and techniques that deepen my understanding of AI and modern software engineering. </p>
 
 <p align="justify"> My interests span across machine learning, generative AI, backend development, and scalable software systems. I enjoy transforming ideas into practical AI-powered applications that deliver meaningful value to users. Whether I am training machine learning models, developing intelligent applications, or strengthening my software engineering foundations, I am motivated by creating solutions that are both technically robust and genuinely useful. </p>
 
